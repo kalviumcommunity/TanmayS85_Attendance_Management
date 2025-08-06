@@ -11,6 +11,4 @@ This is a 10-part code-along project to build a console-based school attendance 
 ### How to Run
 1. Navigate to the project root directory (AttendanceSystem).
 2. Compile: javac src/com/school/Main.java
-3. Run: java -cp src com.school.Main#   T a n m a y _ S 8 5 _ A t t e n d a n c e _ m a n a g e m e n t _ p r o j e c t 
- 
- 
+3. Run: java -cp src com.school.Main
